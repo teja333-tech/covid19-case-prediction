@@ -1,8 +1,5 @@
-# COVID19-ML-Micro-Project
+# COVID19-ML-Project
 COVID-19 data analysis and confirmed case prediction using Linear Regression.
-
-
-# COVID-19 ML Micro Project
 
 ## Overview
 
